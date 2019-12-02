@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eueka-test/client-one/client-one.iml" filepath="$PROJECT_DIR$/eueka-test/client-one/client-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eueka-test/client-two/client-two.iml" filepath="$PROJECT_DIR$/eueka-test/client-two/client-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eueka-test/eueka-test.iml" filepath="$PROJECT_DIR$/eueka-test/eueka-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eueka-test/server-one/server-one.iml" filepath="$PROJECT_DIR$/eueka-test/server-one/server-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eueka-test/server-two/server-two.iml" filepath="$PROJECT_DIR$/eueka-test/server-two/server-two.iml" />
+    </modules>
+  </component>
+</project>

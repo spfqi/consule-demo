@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="client-one" />
+        <module name="client-two" />
+        <module name="server-one" />
+        <module name="server-two" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client-one" target="1.8" />
+      <module name="client-two" target="1.8" />
+      <module name="eueka-test" target="1.8" />
+      <module name="server-one" target="1.8" />
+      <module name="server-two" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
